@@ -56,6 +56,12 @@ Resumen breve de nuestro documento sobre la `Aplicacion estilo Red Social sobre 
 > Antes de comenzar cada fase, asegúrate de que la anterior esté **bien documentada**.  
 > Esto evita retrabajos y facilita que el equipo entienda claramente los objetivos.
 
+## Contacto y responsables
+- Product Owner: owlado— oswlado@gmail.com
+- Scrum Master: Bogdan — Bogdans@hotmail.com
+- Repo & Dev Lead: Equipo de Ingeniería ACME — eng-team@acme.example
+
+---
 Para mas informacion puedes visitar este link: [GitHub Pages](https://myoctocat.com/assets/images/base-octocat.svg).
 
 Puedes tambien visitar estas fuentes oficiales:
