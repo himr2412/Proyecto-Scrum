@@ -39,6 +39,8 @@ Resumen breve de nuestro documento sobre la `Aplicacion estilo Red Social sobre 
 > [!WARNING]
 > Si los requisitos no se definen correctamente en la fase de **análisis**,  
 > el proyecto puede fallar en fases posteriores y generar **costes elevados**.
+## Backlog inicial (selección priorizada)
+Nota: story points en escala Fibonacci (1,2,3,5,8).
 
 2. **Diseño**
    - Definir arquitectura, diagramas y estructura de datos.
